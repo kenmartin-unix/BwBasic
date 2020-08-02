@@ -3,9 +3,9 @@ Information for Bwbasic
 
 8-1-2020 KenUnix with the help of CHIP Master.
 
-BwbasicXP is for older 32 bit Windows/DOS systems. Like Windows XP and Windows 7 and Server 2000.
+BwbasicXP is for older 32 bit Windows/DOS systems. Like Windows XP, Windows 7 and Server 2000.
 
-Bwbasic64 is for 64 bit Windows 10 systems like Windows 10.
+Bwbasic64 is for 64 bit Windows 10 systems like Windows 10 and DOS.
 
 bwbasic_3.20b-1j_i386.deb is for Intel 386 Linux systems.
 
