@@ -14,12 +14,15 @@ bwbasic_3.20b-1j_armhf.deb is for 32 bit ARM Linux systems like Beglebone and CH
 bwbasic_3.20b-1j_amd64.deb is for 64 bit AMD based Linux systems like Debian 10.4 and Ubuntu 20.04.
 
 For the Windows packages download the executable and run it.
-For the deb packages download the deb file and use dpkg -i <package name> to install it.
+
+For the deb packages download the deb file and use dpkg -i package-name to install it.
 
 For the Windows packages Example are in \Program Files (X86)\Bwbasic\Examples
+
 and the DOCS are in \Program Files (X86)\Bwbasic\DOCS.
 
 For the deb installs the Examples are in  /usr/share/bwbasic
+
 and the DOCS are in /usr/share/doc/bwbasic.
 
 All packages are uninstallable.
