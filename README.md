@@ -3,7 +3,7 @@ Information for Bwbasic
 
 8-5-2020 KenUnix with the help of CHIP Master.
 
-Bwbasic.exe is the setup program Windows/DOS systems. Like Windows 7, Windows 10 and Server 2000.
+bwbasic.exe is the setup program Windows/DOS systems. Like Windows 7, Windows 10 and Server 2000.
 
 bwbasic_3.20b-1j_i386.deb is for Intel 386 Linux systems.
 
@@ -26,4 +26,6 @@ For the deb installs the Examples are in  C:/usr/share/bwbasic
 and the DOCS are in /usr/share/doc/bwbasic.
 
 All packages are uninstallable.
+
+The tar balls contain the sources. One for DOS/Windows systems and one for Linux systems
 
